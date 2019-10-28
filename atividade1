@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> atividade grid 3x3</title>
+</head>
+<body>
+	<main id="container">
+		<section>
+	<div id="container">
+	<h1>Projeto grid 3</h1>
+	<img id="img-col-left" src="https://github.com/tmenegaz/webdesign/blob/master/projeto_grid3/img/logo_artigo.png?raw=true" alt="">
+	<img id="img-col-center" src="https://github.com/tmenegaz/webdesign/blob/master/projeto_grid3/img/logo_artigo.png?raw=true" alt="">
+	<img id="img-col-right" src="https://github.com/tmenegaz/webdesign/blob/master/projeto_grid3/img/logo_artigo.png?raw=true" alt="">
+	<p>Lorem ipsum dolor sit amet consectetur adipiscing elit nibh, tempor vehicula sapien mattis quis ut montes metus fringilla, ullamcorper malesuada neque a ultrices pretium augue. Suspendisse inceptos nascetur maecenas donec egestas quisque porta enim, ullamcorper blandit netus senectus eu penatibus montes neque semper, pharetra magna sed aliquam placerat pellentesque ultrices. Tempor hac parturient mattis viverra ad phasellus euismod facilisi, donec penatibus egestas semper ullamcorper cursus montes fermentum dis, lectus efficitur nulla rhoncus mauris at elit. Ullamcorper primis lacinia luctus ut suscipit eleifend proin maecenas, gravida enim dictumst dictum commodo aliquam tincidunt, nisl justo odio netus erat tempor facilisi. Praesent tristique suspendisse lectus penatibus maximus cubilia elit magnis mi enim, aliquam cras auctor lorem rutrum phasellus et imperdiet ipsum, erat montes massa tempor augue eu condimentum volutpat mus. Ipsum scelerisque ante potenti congue praesent euismod proin, eget varius venenatis vivamus netus tincidunt erat, neque habitasse laoreet pharetra pulvinar condimentum.</p>
+	</div>
+	    </section>
+	    <section>
+	<div id="container">
+	<h1>Projeto grid 3</h1>
+	<img id="img-col-left" src="https://github.com/tmenegaz/webdesign/blob/master/projeto_grid3/img/logo_artigo.png?raw=true" alt="">
+	<img id="img-col-center" src="https://github.com/tmenegaz/webdesign/blob/master/projeto_grid3/img/logo_artigo.png?raw=true" alt="">
+	<img id="img-col-right" src="https://github.com/tmenegaz/webdesign/blob/master/projeto_grid3/img/logo_artigo.png?raw=true" alt="">
+	<p>Lorem ipsum dolor sit amet consectetur adipiscing elit nibh, tempor vehicula sapien mattis quis ut montes metus fringilla, ullamcorper malesuada neque a ultrices pretium augue. Suspendisse inceptos nascetur maecenas donec egestas quisque porta enim, ullamcorper blandit netus senectus eu penatibus montes neque semper, pharetra magna sed aliquam placerat pellentesque ultrices. Tempor hac parturient mattis viverra ad phasellus euismod facilisi, donec penatibus egestas semper ullamcorper cursus montes fermentum dis, lectus efficitur nulla rhoncus mauris at elit. Ullamcorper primis lacinia luctus ut suscipit eleifend proin maecenas, gravida enim dictumst dictum commodo aliquam tincidunt, nisl justo odio netus erat tempor facilisi. Praesent tristique suspendisse lectus penatibus maximus cubilia elit magnis mi enim, aliquam cras auctor lorem rutrum phasellus et imperdiet ipsum, erat montes massa tempor augue eu condimentum volutpat mus. Ipsum scelerisque ante potenti congue praesent euismod proin, eget varius venenatis vivamus netus tincidunt erat, neque habitasse laoreet pharetra pulvinar condimentum.</p>
+	</div>
+	    </section>
+	    <section>
+	<div id="container">
+	<h1>Projeto grid 3</h1>
+	<img id="img-col-left" src="https://github.com/tmenegaz/webdesign/blob/master/projeto_grid3/img/logo_artigo.png?raw=true" alt="">
+	<img id="img-col-center" src="https://github.com/tmenegaz/webdesign/blob/master/projeto_grid3/img/logo_artigo.png?raw=true" alt="">
+	<img id="img-col-right" src="https://github.com/tmenegaz/webdesign/blob/master/projeto_grid3/img/logo_artigo.png?raw=true" alt="">
+	<p>Lorem ipsum dolor sit amet consectetur adipiscing elit nibh, tempor vehicula sapien mattis quis ut montes metus fringilla, ullamcorper malesuada neque a ultrices pretium augue. Suspendisse inceptos nascetur maecenas donec egestas quisque porta enim, ullamcorper blandit netus senectus eu penatibus montes neque semper, pharetra magna sed aliquam placerat pellentesque ultrices. Tempor hac parturient mattis viverra ad phasellus euismod facilisi, donec penatibus egestas semper ullamcorper cursus montes fermentum dis, lectus efficitur nulla rhoncus mauris at elit. Ullamcorper primis lacinia luctus ut suscipit eleifend proin maecenas, gravida enim dictumst dictum commodo aliquam tincidunt, nisl justo odio netus erat tempor facilisi. Praesent tristique suspendisse lectus penatibus maximus cubilia elit magnis mi enim, aliquam cras auctor lorem rutrum phasellus et imperdiet ipsum, erat montes massa tempor augue eu condimentum volutpat mus. Ipsum scelerisque ante potenti congue praesent euismod proin, eget varius venenatis vivamus netus tincidunt erat, neque habitasse laoreet pharetra pulvinar condimentum.</p>
+	</div>
+	    </section>
+	</main>
+</body>
+</html>
