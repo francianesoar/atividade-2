@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+#content {
+    display: flex; 
+    height: 980px;
+    width: 450px;
+
+    align-content: flex-start;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+.item {
+	width: 180px;
+	padding: 10px;
+	margin: 10px;
+}
+.item img{
+	width: 200px;
+	height: 90px;
+}
