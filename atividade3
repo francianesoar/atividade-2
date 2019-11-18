@@ -1,9 +1,8 @@
- 
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html>
 	<head>
-		<link rel="stylesheet" type="text/css" href="../Imagens/base.css">
-		<link rel="stylesheet" type="text/css" href="../Imagens/skin.css">
+		<link rel="stylesheet" type="text/css" href="../webdesing/base.css">
+		<link rel="stylesheet" type="text/css" href="../webdesing/skin.css">
 		<title>Index - Projeto FlexBox</title>
 	</head>
 	<body>
