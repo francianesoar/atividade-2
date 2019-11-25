@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+h1{
+   background-color: #b0c4de; 
+   text-align: center;
+   color: white;
+   margin: 0px;
+   position: relative;
+}
+
+body {
+    padding: 0px;
+    margin: 0px; 
+    background-color: #add8e6;
+}
+
+#container {
+    display: flex; 
+    height: 980px;
+    width: 450px;
+
+    align-content: flex-start;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+.item {
+    width: 180px;
+    padding: 30px;
+    margin: 60px;
+}
+.item img{
+    width: 200px;
+    height: 90px;
+}
